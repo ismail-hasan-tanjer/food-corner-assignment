@@ -1,8 +1,8 @@
 body{
     font-family: 'Roboto', sans-serif;
 }
-.wise-man{
-    color: orange;
+.word-color{
+    color: rgb(28, 4, 161);
 }
 .first-section{
    display: flex;
@@ -58,7 +58,14 @@ p{
       border-radius: 10px;
       height: 400px;
   }
- 
+  .follow{
+      margin: 10%;
+      text-align: center;
+  }
+ .follow img{
+     width: 100px;
+     height: 100px;
+ }
 footer{
     text-align: center;
     padding: 3px;
