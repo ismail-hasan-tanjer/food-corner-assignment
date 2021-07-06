@@ -34,7 +34,7 @@ p{
 .link-button{
     padding: 15px;
     border-radius: 5px;
-    background-color: rgb(243, 75, 9);
+    background-image: linear-gradient(to right, red , green);
     text-decoration: none;
     color: white;
 }
