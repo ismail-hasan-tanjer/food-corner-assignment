@@ -6,17 +6,24 @@ body{
 }
 .first-section{
    display: flex;
-   padding-top: 40px;
+   padding-top: 10px;
    padding-left: 40px; 
-   padding-right: 40px;
-   padding-bottom: 60px;
+  margin-top: 0%;
+  margin-bottom: 15%;
 
 }
 h1{
     font-size: 80px;
 }
+.welcome{
+    text-align: center;
+    color: salmon;
+}
 p{
     font-size: 20px;
+}
+.p1{
+    text-align: justify;
 }
 .width-half{
     width: 50%;
@@ -27,15 +34,19 @@ p{
 .link-button{
     padding: 15px;
     border-radius: 5px;
-    background-color: orangered;
+    background-color: rgb(243, 75, 9);
     text-decoration: none;
     color: white;
 }
 .second-section{
     display: flex;
-   margin: 20px;
-    background-image: url(images/shapes/Frame\ 58.jpg);
+   margin-top: 10%;
+   margin-bottom: 10%;
+   background-image: url(images/shapes/Frame\ 59.jpg);
+   background-repeat: no-repeat;
 }
+
+
 .our-recipie{
     text-align: center;
 }
