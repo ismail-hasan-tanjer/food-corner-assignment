@@ -6,8 +6,10 @@ body{
 }
 .first-section{
    display: flex;
+   padding-top: 40px;
    padding-left: 40px; 
    padding-right: 40px;
+   padding-bottom: 60px;
 
 }
 h1{
@@ -26,5 +28,38 @@ p{
     padding: 15px;
     border-radius: 5px;
     background-color: orangered;
-    text-decoration: papayawhip;
+    text-decoration: none;
+    color: white;
 }
+.second-section{
+    display: flex;
+    padding-top: 60px;
+    padding-left: 40px; 
+    padding-right: 40px;
+    background-image: url(images/shapes/Frame\ 58.jpg);
+}
+.our-recipie{
+    text-align: center;
+}
+.food-items{
+    display: flex;
+}
+.food-items img{
+    padding: 10px;
+    width: 70%;
+    height: 50%;   
+    
+  }
+  .box-shadow{
+      width: 300px;
+      box-shadow: 0 4px 8px 0 rgba(78, 73, 73, 0.507), 0 6px 20px 0 rgba(66, 64, 64, 0.19);
+      border-radius: 10px;
+      
+  }
+footer{
+    text-align: center;
+    padding: 3px;
+    background-color: DarkSalmon;
+    color: white;    
+}
+    
