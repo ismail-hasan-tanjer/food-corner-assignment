@@ -1,0 +1,31 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.wise-man{
+    color: orange;
+}
+.first-section{
+   display: flex;
+   padding-left: 40px; 
+   padding-right: 40px;
+
+}
+h1{
+    font-size: 80px;
+}
+p{
+    font-size: 20px;
+}
+.width-half{
+    width: 50%;
+}
+.width-half img{
+    width: 80%;
+}
+.link-button{
+    padding: 15px;
+    border-radius: 5px;
+    background-color: orangered;
+    text-decoration: papayawhip;
+}
+.link-button :hover :active
